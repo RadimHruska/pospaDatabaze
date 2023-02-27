@@ -1,0 +1,8 @@
+C:\Users\radimhruskaml\source\repos\pridejVztah\pridejVztah\bin\Debug\pridejVztah.exe.config
+C:\Users\radimhruskaml\source\repos\pridejVztah\pridejVztah\bin\Debug\pridejVztah.exe
+C:\Users\radimhruskaml\source\repos\pridejVztah\pridejVztah\bin\Debug\pridejVztah.pdb
+C:\Users\radimhruskaml\source\repos\pridejVztah\pridejVztah\obj\Debug\pridejVztah.csproj.AssemblyReference.cache
+C:\Users\radimhruskaml\source\repos\pridejVztah\pridejVztah\obj\Debug\pridejVztah.csproj.SuggestedBindingRedirects.cache
+C:\Users\radimhruskaml\source\repos\pridejVztah\pridejVztah\obj\Debug\pridejVztah.csproj.CoreCompileInputs.cache
+C:\Users\radimhruskaml\source\repos\pridejVztah\pridejVztah\obj\Debug\pridejVztah.exe
+C:\Users\radimhruskaml\source\repos\pridejVztah\pridejVztah\obj\Debug\pridejVztah.pdb

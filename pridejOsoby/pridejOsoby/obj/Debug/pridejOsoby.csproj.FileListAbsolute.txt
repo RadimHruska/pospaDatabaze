@@ -1,0 +1,8 @@
+C:\Users\radimhruskaml\source\repos\pridejOsoby\pridejOsoby\bin\Debug\pridejOsoby.exe.config
+C:\Users\radimhruskaml\source\repos\pridejOsoby\pridejOsoby\bin\Debug\pridejOsoby.exe
+C:\Users\radimhruskaml\source\repos\pridejOsoby\pridejOsoby\bin\Debug\pridejOsoby.pdb
+C:\Users\radimhruskaml\source\repos\pridejOsoby\pridejOsoby\obj\Debug\pridejOsoby.csproj.AssemblyReference.cache
+C:\Users\radimhruskaml\source\repos\pridejOsoby\pridejOsoby\obj\Debug\pridejOsoby.csproj.SuggestedBindingRedirects.cache
+C:\Users\radimhruskaml\source\repos\pridejOsoby\pridejOsoby\obj\Debug\pridejOsoby.csproj.CoreCompileInputs.cache
+C:\Users\radimhruskaml\source\repos\pridejOsoby\pridejOsoby\obj\Debug\pridejOsoby.exe
+C:\Users\radimhruskaml\source\repos\pridejOsoby\pridejOsoby\obj\Debug\pridejOsoby.pdb
